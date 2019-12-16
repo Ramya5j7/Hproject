@@ -1,0 +1,5 @@
+com\niit\Hproject\Config\HibernateConfig.class
+com\niit\Hproject\controller\App.class
+com\niit\Hproject\Dao\UserDaoImpl.class
+com\niit\Hproject\Dao\UserDao.class
+com\niit\Hproject\Model\UserInfo.class
